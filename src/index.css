@@ -46,3 +46,18 @@ button:hover {
   border-color: #cecac9;
 }
 
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.nav a {
+  color: white;
+  padding-right: 6px;
+  font-size: 14px;
+}
